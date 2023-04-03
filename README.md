@@ -1,4 +1,4 @@
-# Quiz Application using HTML, CSS, and JavaScript
+# Quiz Application
 
 This is a simple quiz application developed using HTML, CSS, and JavaScript. The quiz consists of multiple-choice questions and the user can select one answer out of the given options.
 
