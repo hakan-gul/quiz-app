@@ -4,4 +4,4 @@ This is a simple quiz application developed with JavaScript.
 
 # Live
 
-hakan-gul.github.io/quiz-app/
+https://hakan-gul.github.io/quiz-app/
